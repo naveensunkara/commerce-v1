@@ -1,5 +1,5 @@
 {
-  "name": "@vercel/commerce-local",
+  "name": "@vercel/commerce-chargebee",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
